@@ -1,20 +1,18 @@
 <div align="center">
+  <img height="200" src="https://img.sanishtech.com/u/31daf97b47cb0fc020c86e8fa5a47832.png"  />
+</div>
+
+###
+
+
+<div align="center">
   <img height="350" src="https://alive-silver-ndkunypozv.edgeone.app/IMG_6569.png"  />
 </div>
 
 ###
 
-<!--
-**dolliestmen/dolliestmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="200" src="https://img.sanishtech.com/u/31daf97b47cb0fc020c86e8fa5a47832.png"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
